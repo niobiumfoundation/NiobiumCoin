@@ -1,1 +1,0 @@
-# Niobium ICO Smart Contracts
